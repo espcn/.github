@@ -2,20 +2,23 @@
 
 Welcome to the official GitHub organization of the Escola Superior Pedagógica do Cuanza Norte (ESPECN), a public higher education institution located in Ndalatando, Cuanza Norte, Angola.
 
-Founded in 2007, ESPECN is dedicated to academic excellence, teacher education, scientific research, and community development in the field of Educational Sciences.
+Founded in 2007, ESPECN is dedicated to teacher education, scientific research, academic development, and community engagement in the field of Educational Sciences.
 
-## Mission
+## About ESPECN
 
-ESPECN promotes high-level academic and professional training through:
+ESPECN is part of Angola’s public higher education system and contributes to the training of qualified education professionals for national and regional development.
 
-- Teaching and learning
-- Scientific research
-- University extension and community engagement
-- Educational innovation and digital transformation
+The institution promotes:
+
+- Higher education and professional training
+- Scientific and pedagogical research
+- Educational innovation
+- University extension and community service
+- Academic cooperation and digital transformation
 
 ## Academic Areas
 
-Our institution offers undergraduate programs and academic activities in areas including:
+Programs and academic activities include:
 
 - Primary Education
 - Early Childhood Education
@@ -25,36 +28,29 @@ Our institution offers undergraduate programs and academic activities in areas i
 - Biology Education
 - Physics Education
 - Chemistry Education
-- Social and Human Sciences
+- Educational Sciences
+
+## Technology & Open Education
+
+This GitHub organization supports institutional initiatives related to:
+
+- Educational technology
+- Academic digital infrastructure
+- Open educational resources
+- Research and collaboration
+- Institutional software and web systems
 
 ## Institutional Vision
 
-ESPECN aims to consolidate itself as an inclusive, innovative, and internationally recognized educational institution committed to:
+ESPECN aims to strengthen quality higher education, research, innovation, and inclusive academic development in Angola.
 
-- Quality higher education
-- Scientific and pedagogical development
-- Technological modernization
-- International academic cooperation
-- Sustainable social impact
-
-## Technology & Digital Initiatives
-
-This GitHub organization supports:
-
-- Academic digital infrastructure
-- Open educational resources
-- Research collaboration
-- Institutional software projects
-- Web and information systems
-- Educational technology initiatives
-
-## Official Website
+## Website
 
 🌐 https://www.especn.com
 
 ## Contact
 
-📧 it@especn.com
+📧 carlos@especn.com
 
 ---
 
