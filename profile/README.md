@@ -50,7 +50,7 @@ ESPECN aims to strengthen quality higher education, research, innovation, and in
 
 ## Contact
 
-📧 carlos@especn.com
+📧 it@especn.com
 
 ---
 
